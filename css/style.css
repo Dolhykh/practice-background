@@ -130,16 +130,16 @@ header .button {
   margin-right: auto;
 }
 .tour-card.madrid {
-  background: url(../img/tour/madrid.jpg) center / cover no-repeat #666;
+  background: url(./img/tour/madrid.jpg) center / cover no-repeat #666;
 }
 .tour-card.turin {
-  background: url(../img/tour/turin.jpg) center / cover no-repeat #666;
+  background: url(./img/tour/turin.jpg) center / cover no-repeat #666;
 }
 .tour-card.hamburg {
-  background: url(../img/tour/hamburg.jpg) center / cover no-repeat #666;
+  background: url(./img/tour/hamburg.jpg) center / cover no-repeat #666;
 }
 .tour-card.krakow {
-  background: url(../img/tour/krakow.jpg) center / cover no-repeat #666;
+  background: url(./img/tour/krakow.jpg) center / cover no-repeat #666;
 }
 
 /* Gallery */
